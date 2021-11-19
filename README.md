@@ -36,9 +36,8 @@ Once you have an emulator available:
 
 The app was tested on: 
 
-- iOS 11+
 - Android 10+.
-- Ubuntu 
+- Ubuntu Chrome web using expo
 
 *Note on Android: AVDs run incredibly slowly on my machine. Sometimes it is necessary to press 'Refresh' (R,R) once Expo is running. 
 
